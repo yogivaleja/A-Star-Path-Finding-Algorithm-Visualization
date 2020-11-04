@@ -29,4 +29,6 @@ Pygame
 Simply run main.py  
 
 # Images
+![Screenshot 2020-11-04 211021](https://user-images.githubusercontent.com/53828910/98134406-bd2aaf00-1ee4-11eb-8483-f90f04e586b9.png)
+
 
